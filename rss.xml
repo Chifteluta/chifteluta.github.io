@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Chifteluță</title>
+    <link>http://www.chifteluta.ro</link>
+    <description>RSS feed for Chifteluță</description>
+    <pubDate>Sat, 05 Jan 2013 13:58:13 +0200</pubDate>
+    <item>
+      <title>Pastrav cu sos de avocado</title>
+      <link>http://www.chifteluta.ro/pastrav-la-cuptor-cu-sos-de-avocado/</link>
+      <description>&lt;h4&gt;Pestele&lt;/h4&gt;
+
+&lt;p&gt;L-am dat la cuptor intr-o tavita, impreuna cu un sfert de pachet de unt, 2 catei de usturoi, stropit cu ulei de masline, sarat si piperat. Deasupra, o crenguta de rozmarin. 200 grade celsius, 15-20 minute.&lt;/p&gt;
+</description>
+      <pubDate>Sat, 05 Jan 2013 13:58:13 +0200</pubDate>
+      <guid>http://www.chifteluta.ro/pastrav-la-cuptor-cu-sos-de-avocado/</guid>
+      <dc:date>2013-01-05T13:58:13+02:00</dc:date>
+    </item>
+    <item>
+      <title>Costite de porc glazurate</title>
+      <link>http://www.chifteluta.ro/costite-de-porc-glazurate/</link>
+      <description>&lt;h4&gt;Costitele&lt;/h4&gt;
+
+&lt;p&gt;Daca alegi sa le faci la cuptor (asa cum am facut eu), iti recomand sa alegi costite degrasate or un pic de grasime pe pe ele este mai potrivita daca le faci pe gratar cu carbuni.
+Deoarece costitele aveau un strat generos de carnita peste ele, am decis sa le incrustez cu un cutit mai taios. Lucrul asta a ajutat sa se intrepatrunda mai bine cu niste arome iar mai tarziu, sa se coaca uniform.&lt;/p&gt;
+</description>
+      <pubDate>Sun, 26 Feb 2012 13:58:13 +0200</pubDate>
+      <guid>http://www.chifteluta.ro/costite-de-porc-glazurate/</guid>
+      <dc:date>2012-02-26T13:58:13+02:00</dc:date>
+    </item>
+    <item>
+      <title>Chiftelute la cuptor</title>
+      <link>http://www.chifteluta.ro/chiftelute-la-cuptor/</link>
+      <description>&lt;p&gt;Vă salut, cititori ai acestui blog care sunteți... sau care, poate, veți fi :)&lt;/p&gt;
+</description>
+      <pubDate>Sun, 26 Feb 2012 13:58:13 +0200</pubDate>
+      <guid>http://www.chifteluta.ro/chiftelute-la-cuptor/</guid>
+      <dc:date>2012-02-26T13:58:13+02:00</dc:date>
+    </item>
+    <item>
+      <title>Cheesecake cu zmeura</title>
+      <link>http://www.chifteluta.ro/cheesecake-cu-zmeura/</link>
+      <description>&lt;p&gt;Prăjitura aceasta se face relativ repede, dar trebuie așteptat după ea măcar vreo 4 ore ca să fie bună până la capăt :)&lt;/p&gt;
+</description>
+      <pubDate>Sun, 26 Feb 2012 13:58:13 +0200</pubDate>
+      <guid>http://www.chifteluta.ro/cheesecake-cu-zmeura/</guid>
+      <dc:date>2012-02-26T13:58:13+02:00</dc:date>
+    </item>
+    <dc:date>2013-01-05T13:58:13+02:00</dc:date>
+  </channel>
+</rss>
