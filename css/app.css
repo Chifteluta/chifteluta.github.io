@@ -2032,7 +2032,8 @@ h1, h2 {
   font-family: "Dancing Script", arial, serif; }
 
 .header {
-  padding: 20px 0; }
+  padding-top: 20px;
+  padding-bottom: 20px; }
   .header h1 {
     font-family: "Kaushan Script", arial, serif;
     font-size: 36px;
@@ -2057,6 +2058,21 @@ h1, h2 {
       .top-nav li a:hover {
         color: #a9c245; }
 
+@media only screen and (max-width: 40em) {
+  .header {
+    padding-top: 0;
+    text-align: center; }
+    .header h1 {
+      font-family: "Kaushan Script", arial, serif;
+      font-size: 36px;
+      display: block; }
+      .header h1 a {
+        color: #5d696f; }
+
+  .top-nav {
+    margin-bottom: 0; }
+    .top-nav li {
+      padding: 0px 0 0 10px; } }
 .hero {
   padding: 40px 0;
   background: url(../images/hero.jpg) no-repeat 0 0;
