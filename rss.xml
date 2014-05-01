@@ -8,7 +8,16 @@
     <title>Chifteluță</title>
     <link>http://www.chifteluta.ro</link>
     <description>RSS feed for Chifteluță</description>
-    <pubDate>Sat, 05 Jan 2013 13:58:13 +0200</pubDate>
+    <pubDate>Sun, 06 Jan 2013 13:58:13 +0200</pubDate>
+    <item>
+      <title>Costite de porc la ceaun</title>
+      <link>http://www.chifteluta.ro/costite-de-porc-la-ceaun/</link>
+      <description>&lt;p&gt;Le-am frecat cu sare grunjoasa. Le-am calit intr-un &lt;strong&gt;ceaun din fonta&lt;/strong&gt;, incins, impreuna cu o lingura de ulei.&lt;/p&gt;
+</description>
+      <pubDate>Sun, 06 Jan 2013 13:58:13 +0200</pubDate>
+      <guid>http://www.chifteluta.ro/costite-de-porc-la-ceaun/</guid>
+      <dc:date>2013-01-06T13:58:13+02:00</dc:date>
+    </item>
     <item>
       <title>Pastrav cu sos de avocado</title>
       <link>http://www.chifteluta.ro/pastrav-la-cuptor-cu-sos-de-avocado/</link>
@@ -50,6 +59,15 @@ Deoarece costitele aveau un strat generos de carnita peste ele, am decis sa le i
       <guid>http://www.chifteluta.ro/cheesecake-cu-zmeura/</guid>
       <dc:date>2012-02-26T13:58:13+02:00</dc:date>
     </item>
-    <dc:date>2013-01-05T13:58:13+02:00</dc:date>
+    <item>
+      <title>Salata de vara cu capsuni, macris si mozzarella</title>
+      <link>http://www.chifteluta.ro/salata-de-vara-cu-capsuni-macris-si-mozzarella/</link>
+      <description>&lt;p&gt;Salata aceasta s-a născut într-o sâmbătă caldă de iunie, odată cu un drum la piaţă şi o poftă nebună de crudităţi crocante.&lt;/p&gt;
+</description>
+      <pubDate>Wed, 16 Jun 2010 14:58:13 +0300</pubDate>
+      <guid>http://www.chifteluta.ro/salata-de-vara-cu-capsuni-macris-si-mozzarella/</guid>
+      <dc:date>2010-06-16T14:58:13+03:00</dc:date>
+    </item>
+    <dc:date>2013-01-06T13:58:13+02:00</dc:date>
   </channel>
 </rss>
