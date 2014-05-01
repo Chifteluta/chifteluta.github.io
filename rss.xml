@@ -8,7 +8,16 @@
     <title>Chifteluță</title>
     <link>http://www.chifteluta.ro</link>
     <description>RSS feed for Chifteluță</description>
-    <pubDate>Sun, 06 Jan 2013 13:58:13 +0200</pubDate>
+    <pubDate>Wed, 15 Jan 2014 13:58:13 +0200</pubDate>
+    <item>
+      <title>Lasagna cu bechamel</title>
+      <link>http://www.chifteluta.ro/lasagna-cu-bechamel/</link>
+      <description>&lt;p&gt;Zilele trecute a dat (și) peste mine o răceală cruntă. Nu m-a lăsat să lucrez și m-a ținut în casă o parte bună din săptămână. Timpul nu a fost pierdut în zadar – a fost bun pentru a pune niște gânduri în ordine și, bineînțeles, pentru a da ceva la cuptor.&lt;/p&gt;
+</description>
+      <pubDate>Wed, 15 Jan 2014 13:58:13 +0200</pubDate>
+      <guid>http://www.chifteluta.ro/lasagna-cu-bechamel/</guid>
+      <dc:date>2014-01-15T13:58:13+02:00</dc:date>
+    </item>
     <item>
       <title>Costite de porc la ceaun</title>
       <link>http://www.chifteluta.ro/costite-de-porc-la-ceaun/</link>
@@ -86,6 +95,6 @@ Deoarece costitele aveau un strat generos de carnita peste ele, am decis sa le i
       <guid>http://www.chifteluta.ro/salata-rosie/</guid>
       <dc:date>2010-06-06T14:58:13+03:00</dc:date>
     </item>
-    <dc:date>2013-01-06T13:58:13+02:00</dc:date>
+    <dc:date>2014-01-15T13:58:13+02:00</dc:date>
   </channel>
 </rss>
