@@ -15,8 +15,11 @@ $(window).on('scroll', function() {
     var pageHeight = $(window).height();
     var y = $(window).scrollTop() * 100 / pageHeight;
     //$(".is-post .hero").css('background-position', '0px ' + (-50 - y / 3) + 'px');
-    $('.is-post .hero').stop().animate({
-        'background-position-x': '0',
-        'background-position-y': 50 + y + "%"
-    }, 500, 'linear');
+    if (y < 50) {
+        $('.is-post .hero').stop().animate({
+            'background-position-x': '0',
+            'background-position-y': 50 + y + "%"
+        }, 3000, 'linear');
+    }
+
 });
