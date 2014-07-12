@@ -8,7 +8,16 @@
     <title>Chifteluță</title>
     <link>http://www.chifteluta.ro</link>
     <description>RSS feed for Chifteluță</description>
-    <pubDate>Wed, 15 Jan 2014 13:58:13 +0200</pubDate>
+    <pubDate>Sat, 12 Jul 2014 14:58:13 +0300</pubDate>
+    <item>
+      <title>Cartofi copti si chiftelute</title>
+      <link>http://www.chifteluta.ro/cartofi-copti-si-chiftelute/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Cartofi copți&lt;/strong&gt; mai faini de-atât, nu mă țin minte să fi făcut :)&lt;/p&gt;
+</description>
+      <pubDate>Sat, 12 Jul 2014 14:58:13 +0300</pubDate>
+      <guid>http://www.chifteluta.ro/cartofi-copti-si-chiftelute/</guid>
+      <dc:date>2014-07-12T14:58:13+03:00</dc:date>
+    </item>
     <item>
       <title>Lasagna cu bechamel</title>
       <link>http://www.chifteluta.ro/lasagna-cu-bechamel/</link>
@@ -122,6 +131,6 @@ Deoarece costitele aveau un strat generos de carnita peste ele, am decis sa le i
       <guid>http://www.chifteluta.ro/papanasi/</guid>
       <dc:date>2010-01-09T13:58:13+02:00</dc:date>
     </item>
-    <dc:date>2014-01-15T13:58:13+02:00</dc:date>
+    <dc:date>2014-07-12T14:58:13+03:00</dc:date>
   </channel>
 </rss>
